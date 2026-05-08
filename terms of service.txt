@@ -1,0 +1,64 @@
+  Terms of Service – Titanium Security
+
+By inviting or using Titanium Security (“Bot”), you agree to the following Terms of Service.
+
+   1. Usage
+
+Titanium Security is provided as a moderation and security tool for Discord servers. By using the Bot, you agree to use it in compliance with Discord’s Terms of Service and Community Guidelines.
+
+   2. Ownership
+
+The Bot, including its systems, code, branding, and features, is owned and operated by the developer of Titanium Security. Unauthorized copying, distribution, resale, or modification of the Bot or its services is prohibited.
+
+  3. User Responsibility
+
+Server owners and administrators are responsible for:
+
+* Configuring the Bot correctly
+* Managing permissions granted to the Bot
+* Reviewing automated moderation settings
+* Actions performed using the Bot within their server
+
+   4. Automated Moderation
+
+Titanium Security may automatically perform moderation and security actions including, but not limited to:
+
+* Deleting messages
+* Muting members
+* Kicking or banning users
+* Restricting permissions
+* Triggering anti-raid protections
+
+These actions are based on server configuration and automated detection systems. False positives may occasionally occur.
+
+   5. Restrictions
+
+You agree not to:
+
+* Abuse or exploit the Bot
+* Attempt to bypass security systems
+* Use the Bot for illegal, harmful, or malicious purposes
+* Interfere with the Bot’s functionality or infrastructure
+* Redistribute or resell access to the Bot without permission
+
+   6. Availability
+
+The Bot is provided on an “as is” and “as available” basis. The developer does not guarantee uninterrupted uptime, error-free operation, or permanent availability.
+
+   7. Limitation of Liability
+
+The developer is not responsible for:
+
+* Data loss
+* Server damage or disruption
+* Incorrect moderation actions
+* Downtime or service interruptions
+* Misconfiguration by server administrators
+
+   8. Termination
+
+Access to Titanium Security may be restricted or terminated at any time for abuse, misuse, violation of these terms, or security concerns.
+
+   9. Changes to Terms
+
+These Terms of Service may be updated or modified at any time without prior notice. Continued use of the Bot after changes constitutes acceptance of the updated Terms.
